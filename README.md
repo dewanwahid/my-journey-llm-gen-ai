@@ -1,7 +1,6 @@
 # My Journey to Generative AI and LLM
 
-I am documenting my journey into Generative AI and Large Language Models (LLM) in this repository. As this field is evolving rapidly, I will continuously update my progress and list the courses and materials I use on this journey.
-
+This repository documents my journey into generative AI and large language models (LLMs). As this field evolves rapidly, I will continuously update my progress and list the courses and materials I use on this journey.
 
 List of courses and materials:
 - [LLMs Mastery: Complete Guide to Transformers & Generative AI](https://www.udemy.com/course/llms-mastery-complete-guide-to-transformers-generative-ai/?couponCode=ST12MT122624)(Udemy)
