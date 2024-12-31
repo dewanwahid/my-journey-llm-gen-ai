@@ -8,4 +8,5 @@ List of courses and materials:
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer) (blog: Jay Alammar)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [Getting to Know Llama 2: Everything You Need to Start Building](https://www.youtube.com/watch?v=Z5MFSlDrOdA)
+- [How to build a Interactive Personal AI Research Agent with Llama 3.2](https://medium.com/@sahin.samia/how-to-build-a-interactive-personal-ai-research-agent-with-llama-3-2-b2a390eed63e)
   
